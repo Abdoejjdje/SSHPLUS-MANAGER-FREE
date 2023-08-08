@@ -12,7 +12,7 @@ y los usuarios...
 
 ## :book: Installation
 ```bash
-apt-get update -y
+apt-get update -x. ooredoo.vps.fast.ssh
 ```
 ```bash
 apt-get upgrade -y
